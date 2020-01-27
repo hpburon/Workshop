@@ -10,3 +10,7 @@ Henry Buron
 ## Project 1
 
 1.
+
+## Response to Readings
+
+1. [Blumenstock Response] (https:// 
