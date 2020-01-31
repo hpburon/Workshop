@@ -6,6 +6,7 @@ Henry Buron
 
 1. Line Plot
 2. The Path of a Salesman - Plot
+3. Challenge Question 1
 
 ## Project 1
 
