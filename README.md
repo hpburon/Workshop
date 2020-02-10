@@ -10,7 +10,7 @@ Henry Buron
 
 ## Project 1
 
-1. [Jamaica] https://github.com/hpburon/Workshop/blob/master/jaimaica_gadm.png
+1. [Jamaica] (https://github.com/hpburon/Workshop/blob/master/jaimaica_gadm.png)
 
 ## Response to Readings
 
