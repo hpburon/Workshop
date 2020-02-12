@@ -15,4 +15,4 @@ Henry Buron
 ## Response to Readings
 
 1. [Blumenstock Response] (https://github.com/hpburon/Workshop/edit/master/blumenstock.md)
-2. [Lloyd Response] ()
+2. [Lloyd Response] (https://github.com/hpburon/Workshop/blob/master/Lloyd.md)
