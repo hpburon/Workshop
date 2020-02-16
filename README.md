@@ -10,7 +10,8 @@ Henry Buron
 
 ## Project 1
 
-1. [Jamaica] (https://github.com/hpburon/Workshop/blob/master/project1.md)
+1. [Part 1] (https://github.com/hpburon/Workshop/blob/master/project1.md)
+2. [Part 2] ()
 
 ## Response to Readings
 
