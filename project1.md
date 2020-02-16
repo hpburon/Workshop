@@ -2,19 +2,19 @@
 
 Henry Buron
 
-## Parish Borders and Healthsites
+## Parish Borders and Healthsites (Part 1)
 
 ![](jaimaica_gadm.png)
 
 Challenges, findings, reflections.
 
-## Population by Parish
+## Population by Parish (Part 2)
 
 ![](jam_pop2019C.png)
 
 Challenges, findings, reflections.
 
-## 3D Population Plot
+## 3D Population Plot (Part 2)
 
 ![](jam_pop2019E.mp4)
 
