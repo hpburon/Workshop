@@ -16,6 +16,6 @@ Challenges, findings, reflections.
 
 ## 3D Population Plot
 
-Image
+![](jam_pop2019E.mp4)
 
 Challenges, findings, reflections.
