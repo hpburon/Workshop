@@ -10,7 +10,7 @@ Challenges, findings, reflections.
 
 ## Population by Parish
 
-Image
+![](jam_pop2019C.png)
 
 Challenges, findings, reflections.
 
