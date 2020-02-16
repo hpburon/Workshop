@@ -6,4 +6,16 @@ Henry Buron
 
 ![](jaimaica_gadm.png)
 
-Some challenged I had with producing this plot. Some findings. Reflections.
+Challenges, findings, reflections.
+
+## Population by Parish
+
+Image
+
+Challenges, findings, reflections.
+
+## 3D Population Plot
+
+Image
+
+Challenges, findings, reflections.
