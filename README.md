@@ -4,9 +4,9 @@ Henry Buron
 
 ## Workshop
 
-1. Line Plot (https://github.com/hpburon/Workshop/blob/master/plot2.png)
+1. [Line Plot] (https://github.com/hpburon/Workshop/blob/master/plot2.png)
 2. The Path of a Salesman - Plot
-3. Challenge Question 1 (https://github.com/hpburon/Workshop/blob/master/Challenge_Question_1.png)
+3. [Challenge Question 1] (https://github.com/hpburon/Workshop/blob/master/Challenge_Question_1.png).
 
 ## Project 1
 
