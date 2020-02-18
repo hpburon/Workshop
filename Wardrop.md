@@ -1,5 +1,8 @@
 ## Response to Wardrop
 
+Henry Buron
+
+February 17, 2020
 
 In the reading for today, the authors (Wardrop et al.) introduce a top-down approach as well as a bottom-up approach. The top-down method consists of using administrative boundaries to collect initial data (i.e. a normal census), and then, using covariate data, redistribute the data at more detailed scales. The bottom-up method consists of using population counts from small, defined areas (“microcensus surveys”), and then linking this data to spatial covariate data to estimate population in unsurveyed locations.
 
