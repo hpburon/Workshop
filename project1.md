@@ -19,3 +19,5 @@ Challenges, findings, reflections.
 ![](jam_pop2019E.mp4)
 
 Challenges, findings, reflections.
+
+## Spatial Description and Geometric Bar Plot (Part 3)
