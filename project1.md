@@ -10,7 +10,7 @@ Henry Buron
 
 ![](jam_pop2019C.png)
 
-## 3D Population Plot (Part 2 - Stretch Goal)
+## 3D Population Plot (Part 2 - Stretch Goal(.mp4 file))
 
 ![](jam_pop2019E.mp4)
 
