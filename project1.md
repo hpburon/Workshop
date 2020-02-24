@@ -23,3 +23,5 @@ Challenges, findings, reflections.
 ## Spatial Description and Geometric Bar Plot (Part 3)
 
 ![](jam_final1.png)
+
+Challenges, findings, reflections.
