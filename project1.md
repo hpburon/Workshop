@@ -14,7 +14,7 @@ Challenges, findings, reflections.
 
 Challenges, findings, reflections.
 
-## 3D Population Plot (Part 2)
+## 3D Population Plot (Part 2 - Stretch Goal)
 
 ![](jam_pop2019E.mp4)
 
