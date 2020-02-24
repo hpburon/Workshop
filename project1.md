@@ -2,7 +2,7 @@
 
 Henry Buron
 
-## Parish Borders and Healthsites (Part 1)
+## Parish Borders and Healthsites (Part 1 - Stretch Goal)
 
 ![](jaimaica_gadm.png)
 
