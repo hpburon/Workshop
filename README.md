@@ -12,7 +12,7 @@ Henry Buron
 
 1. Project 1: [Jamaica](https://github.com/hpburon/Workshop/blob/master/project1.md)
 
-## Response to Readings
+## Reading Responses
 
 1. [Blumenstock Response](https://github.com/hpburon/Workshop/blob/master/blumenstock.md)
 2. [Lloyd Response](https://github.com/hpburon/Workshop/blob/master/Lloyd.md)
