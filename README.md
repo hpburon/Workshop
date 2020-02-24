@@ -8,9 +8,9 @@ Henry Buron
 2. The Path of a Salesman - Plot
 3. [Challenge Question 1](https://github.com/hpburon/Workshop/blob/master/Challenge_Question_1.png)
 
-## Project 1
+## Projects
 
-1. [Jamaica](https://github.com/hpburon/Workshop/blob/master/project1.md)
+1. Project 1: [Jamaica](https://github.com/hpburon/Workshop/blob/master/project1.md)
 
 ## Response to Readings
 
