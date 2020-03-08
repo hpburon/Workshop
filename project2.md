@@ -10,6 +10,8 @@ Density plot.
 
 ![](jam_density99.png)
 
+Histogram of population distribution combined with probability density function.
+
 ![](jam_pdf_log99.png)
 
 ![](jam_some_variables99.png)
