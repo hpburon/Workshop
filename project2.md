@@ -2,7 +2,7 @@
 
 Henry Buron
 
-Histogram representing population distributino of Jamaica's 14 Parishes.
+Histogram representing population distribution of Jamaica's 14 Parishes.
 
 ![](jam_histogram99.png)
 
