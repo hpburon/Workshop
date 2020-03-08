@@ -6,6 +6,8 @@ Histogram representing population distribution of Jamaica's 14 Parishes.
 
 ![](jam_histogram99.png)
 
+Density plot.
+
 ![](jam_density99.png)
 
 ![](jam_pdf_log99.png)
