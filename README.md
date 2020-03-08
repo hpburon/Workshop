@@ -11,6 +11,7 @@ Henry Buron
 ## Projects
 
 1. Project 1: [Jamaica](https://github.com/hpburon/Workshop/blob/master/project1.md)
+2. Project 2: [Jamaica]
 
 ## Reading Responses
 
