@@ -7,3 +7,5 @@ Henry Buron
 ![](jam_density99.png)
 
 ![](jam_pdf_log99.png)
+
+![](jam_all_variables99.png)
