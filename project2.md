@@ -8,4 +8,6 @@ Henry Buron
 
 ![](jam_pdf_log99.png)
 
+![](jam_some_variables99.png)
+
 ![](jam_all_variables99.png)
