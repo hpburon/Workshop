@@ -3,3 +3,5 @@
 Henry Buron
 
 ![](jam_histogram99.png)
+
+![](jam_density99.png)
