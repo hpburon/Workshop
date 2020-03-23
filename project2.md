@@ -2,6 +2,8 @@
 
 Henry Buron
 
+## Part 1
+
 Histogram representing population distribution of Jamaica's 14 Parishes.
 
 ![](jam_histogram99.png)
@@ -21,3 +23,5 @@ Residual model with regression line and confidence interval representing the cor
 Residual model with regression line and confidence interval representing the correlation of all variables with Jamaica's population distribution.
 
 ![](jam_all_variables99.png)
+
+## Part 2
