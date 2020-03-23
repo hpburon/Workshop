@@ -10,7 +10,7 @@ Henry Buron
 
 ## Projects
 
-1. Project 1: [Jamaica](https://github.com/hpburon/Workshop/blob/master/project1.html)
+1. Project 1: [Jamaica](https://github.com/hpburon/Workshop/blob/master/project1.md)
 2. Project 2: [Jamaica](https://github.com/hpburon/Workshop/blob/master/project2.html)
 
 ## Reading Responses
