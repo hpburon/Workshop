@@ -4,6 +4,8 @@ Henry Buron
 
 March 25, 2020
 
+Question: Nieves et al. use the random forest machine learning method to predict what value globally?  Describe in detail how random forest works.  What is a dasymetric population allocation? Which geospatial covariates proved to be the most important when predicting global values of where humans reside?
+
 Nieves et al. used the random forest machine learning method to predict population density in LMICs. Random forest, a type of 
 machine-learning falling under the category “ensemble methods,” works by taking individual decision trees that are considered 
 “weak learners,” and combining them to form a “strong learner.” Benefits of ensemble methods include increased 
