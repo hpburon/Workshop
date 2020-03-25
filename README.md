@@ -18,4 +18,5 @@ Henry Buron
 1. [Blumenstock Response](https://github.com/hpburon/Workshop/blob/master/blumenstock.md)
 2. [Lloyd Response](https://github.com/hpburon/Workshop/blob/master/Lloyd.md)
 3. [Wardrop Response](https://github.com/hpburon/Workshop/blob/master/Wardrop.md)
-4. [Stevens response](https://github.com/hpburon/Workshop/blob/master/Stevens.md)
+4. [Stevens Response](https://github.com/hpburon/Workshop/blob/master/Stevens.md)
+5. [Nieves Response](https://github.com/hpburon/Workshop/blob/master/Nieves.md)
