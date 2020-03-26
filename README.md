@@ -15,8 +15,8 @@ Henry Buron
 
 ## Reading Responses
 
-1. [Blumenstock Response](https://github.com/hpburon/Workshop/blob/master/blumenstock.md)
-2. [Lloyd Response](https://github.com/hpburon/Workshop/blob/master/Lloyd.md)
-3. [Wardrop Response](https://github.com/hpburon/Workshop/blob/master/Wardrop.md)
-4. [Stevens Response](https://github.com/hpburon/Workshop/blob/master/Stevens.md)
-5. [Nieves Response](https://github.com/hpburon/Workshop/blob/master/Nieves)
+1. [Blumenstock Response](https://hpburon.github.io/Workshop/blumenstock)
+2. [Lloyd Response](https://hpburon.github.io/Workshop/Lloyd)
+3. [Wardrop Response](https://hpburon.github.io/Workshop/Wardrop)
+4. [Stevens Response](https://hpburon.github.io/Workshop/Stevens)
+5. [Nieves Response](https://hpburon.github.io/Workshop/Nieves)
