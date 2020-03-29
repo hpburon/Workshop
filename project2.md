@@ -1,4 +1,4 @@
-## Project 2: Jamaica
+# Project 2: Jamaica
 
 Henry Buron
 
@@ -25,7 +25,8 @@ Residual model with regression line and confidence interval representing the cor
 ![](jam_all_variables99.png)
 
 ## Part 2
-Jamaica - adm1
+
+### Jamaica - adm1
 
 ![](jamaicapop_proj2_part2.png)
 
@@ -35,7 +36,7 @@ Jamaica - adm1
 
 ![](jamaica_mapview.png)
 
-Saint Catherine - adm2
+### Saint Catherine - adm2
 
 ![](saint_catherine1.png)
 
@@ -44,11 +45,3 @@ Saint Catherine - adm2
 ![](saint_catherine3d)
 
 ![](saint_catherine_mapview.png)
-
-### Three
-
-## Two
-
-# One
-
-None
