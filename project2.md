@@ -26,8 +26,13 @@ Residual model with regression line and confidence interval representing the cor
 
 ## Part 2
 
+
 ![](jamaicapop_proj2_part2.png)
 
 ![](jamaica_diff1.png)
 
 ![](jamaica_3d)
+
+![](jamaica_mapview.png)
+
+
