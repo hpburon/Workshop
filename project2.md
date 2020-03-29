@@ -25,7 +25,7 @@ Residual model with regression line and confidence interval representing the cor
 ![](jam_all_variables99.png)
 
 ## Part 2
-
+Jamaica - adm1
 
 ![](jamaicapop_proj2_part2.png)
 
@@ -34,5 +34,15 @@ Residual model with regression line and confidence interval representing the cor
 ![](jamaica_3d)
 
 ![](jamaica_mapview.png)
+
+Saint Catherine - adm2
+
+![](saint_catherine1.png)
+
+![](saint_catherine2.png)
+
+![](saint_catherine3d)
+
+![](saint_catherine_mapview.png)
 
 
