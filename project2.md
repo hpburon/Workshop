@@ -39,7 +39,7 @@ This plot shows the actual population values of Jamaica from the worldpop site. 
 This is a 3D plot of Jamaica that reprsents how much variation was exhibited in the predicted values.
 
 ![](jamaica_mapview.png)
-This is a plot is a mapview that also reprsents the error of the predicted values compared to the worldpop raster. As you can see, population values were underestimated near Kingston, the capital, and generally overestimated throughout the rest of the country.
+This plot is a mapview that also reprsents the error of the predicted values compared to the worldpop raster. As you can see, population values were underestimated near Kingston, the capital, and generally overestimated throughout the rest of the country.
 
 ### Saint Catherine - adm2
 
@@ -53,4 +53,4 @@ This plot shows the actual population values of Saint Catherine from the worldpo
 This 3D plot is meant to represent the variation exhibited in the predicted values. However, as you can see, the plot currently does not really represent anything. I am working on fixing this issue.
 
 ![](saint_catherine_mapview.png)
-This is a plot is a mapview that also reprsents the error of the predicted values compared to the worldpop raster. The model overpredicted in areas of high population and under predicted in areas of low population.
+This plot is a mapview that also reprsents the error of the predicted values compared to the worldpop raster. The model overpredicted in areas of high population and under predicted in areas of low population.
