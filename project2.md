@@ -50,7 +50,8 @@ The above plot shows the difference (error) of predicted values from the worldpo
 This plot shows the actual population values of Saint Catherine from the worldpop site. If you compare this plot to the previous one, you will see that the areas of high population are more likely to be underestimated, and the areas of low population are more likely to be overestimated.
 
 ![](saint_catherine3d)
+
 This 3D plot is meant to represent the variation exhibited in the predicted values. However, as you can see, the plot currently does not really represent anything. I am working on fixing this issue.
 
 ![](saint_catherine_mapview.png)
-This plot is a mapview that also reprsents the error of the predicted values compared to the worldpop raster. The model overpredicted in areas of high population and under predicted in areas of low population.
+This plot is a mapview that also reprsents the error of the predicted values compared to the worldpop raster. The model overpredicted in areas of high population and under predicted in areas of low population. It's interesting to notice that the underpredictions are much more than the overpredicions.
