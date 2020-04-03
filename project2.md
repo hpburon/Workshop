@@ -54,4 +54,4 @@ This plot shows the actual population values of Saint Catherine from the worldpo
 This 3D plot is meant to represent the variation exhibited in the predicted values. However, as you can see, the plot currently does not really represent anything. I am working on fixing this issue.
 
 ![](saint_catherine_mapview.png)
-This plot is a mapview that also reprsents the error of the predicted values compared to the worldpop raster. The model overpredicted in areas of high population and under predicted in areas of low population. It's interesting to note that the underprediction error is generally more severe than the overprediction error.
+This plot is a mapview that also reprsents the error of the predicted values compared to the worldpop raster. The model overpredicted in areas of high population and under predicted in areas of low population. It's interesting to note that the underprediction error seems to generally be larger than the overprediction error.
