@@ -34,9 +34,9 @@ The above plot shows the difference (error) of predicted value from the worldpop
 ![](jamaicapop_proj2_part2.png)
 This plot shows the actual population values of Jamaica from the worldpop site. If you compare this plot to the previous one, you will see that the areas of high population are more likely to be underestimated, and the areas of low population are more likely to be overestimated.
 
-![](jamaica_3d)
+![](jamaica3d.png)
 
-This is a 3D plot of Jamaica that reprsents how much variation was exhibited in the predicted values.
+This 3D plot represents the variation exhibited in the predicted values. 
 
 ![](jamaica_mapview.png)
 This plot is a mapview that also reprsents the error of the predicted values compared to the worldpop raster. As you can see, population values were underestimated near Kingston, the capital, and generally overestimated throughout the rest of the country.
@@ -49,9 +49,9 @@ The above plot shows the difference (error) of predicted values from the worldpo
 ![](saint_catherine1.png)
 This plot shows the actual population values of Saint Catherine from the worldpop site. If you compare this plot to the previous one, you will see that the areas of high population are more likely to be underestimated, and the areas of low population are more likely to be overestimated.
 
-![](saint_catherine3d)
+![](saintcatherine3d.png)
 
-This 3D plot is meant to represent the variation exhibited in the predicted values. However, as you can see, the plot currently does not really represent anything. I am working on fixing this issue.
+This 3D plot represents the variation exhibited in the predicted values. 
 
 ![](saint_catherine_mapview.png)
 This plot is a mapview that also reprsents the error of the predicted values compared to the worldpop raster. The model overpredicted in areas of high population and under predicted in areas of low population. It's interesting to note that the underprediction error seems to generally be larger than the overprediction error.
