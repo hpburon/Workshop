@@ -22,7 +22,7 @@ Residual model with regression line and confidence interval representing the cor
 
 ![](jam_all_variables99.png)
 
-Residual model with regression line and confidence interval representing the correlation of all variables with Jamaica's population distribution.
+Residual model with regression line and confidence interval representing the correlation of all variables with Jamaica's population distribution. The points, which each represent on of Jamaica's parishes, have much less variability in this model compared to the previous one that only used three covariates, meaning this model is more accurate. In addition, the points on the left, which are close to the line of best fit, likely represent the more rural Parishes. It seems that urban areas with high population counts and density are harder to accurately predict.
 
 ## Part 2
 
