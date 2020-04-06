@@ -4,25 +4,25 @@ Henry Buron
 
 ## Part 1
 
-Histogram representing population distribution of Jamaica's 14 Parishes.
-
 ![](jam_histogram99.png)
 
-Density plot.
+Above is a histogram representing population distribution of Jamaica's 14 Parishes (adm2).
 
 ![](jam_density99.png)
 
-Histogram of population distribution combined with probability density function.
+Density plot based on the log population data of Jamaica's 14 Parishes
 
 ![](jam_pdf_log99.png)
 
-Residual model with regression line and confidence interval representing the correlation of night time lights, urban cover, and bare cover with Jamaica's population distribution.
+Histogram of population distribution combined with probability density function.
 
 ![](jam_some_variables99.png)
 
-Residual model with regression line and confidence interval representing the correlation of all variables with Jamaica's population distribution.
+Residual model with regression line and confidence interval representing the correlation of night time lights, urban cover, and bare cover with Jamaica's population distribution.
 
 ![](jam_all_variables99.png)
+
+Residual model with regression line and confidence interval representing the correlation of all variables with Jamaica's population distribution.
 
 ## Part 2
 
@@ -54,4 +54,4 @@ This plot shows the actual population values of Saint Catherine from the worldpo
 This 3D plot represents the variation exhibited in the predicted values. 
 
 ![](saint_catherine_mapview.png)
-This plot is a mapview that also reprsents the error of the predicted values compared to the worldpop raster. The model overpredicted in areas of high population and under predicted in areas of low population. It's interesting to note that the underprediction error seems to generally be larger than the overprediction error.
+This plot is a mapview that also reprsents the error of the predicted values compared to the worldpop raster. The model overpredicted in areas of high population and under predicted in areas of low population. It's interesting to note that the underprediction error seems to generally be much larger than the overprediction error.
