@@ -14,6 +14,6 @@ Henry Buron
 
 ![](buffered.png)
 
-![](incorrect_pop:den.png)
+![](incorrect_urban.png)
 
 ![](urbanareas.png)
