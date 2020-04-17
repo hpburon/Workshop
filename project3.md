@@ -28,7 +28,7 @@ This plot shows the buffered lines on top of the population per grid cell plot. 
 
 ![](urbanareas.png)
 
-This plot shows Westmoreland's urban areas in the dark tan.
+This plot shows Westmoreland's urban areas in the darker tan.
 
 Unfortunately, I was not able to generate the population/density points on this plot (several of the commands kept producing errors that I could not figure out). However, as you will see below, I was able to plot several types of data points that I believe are positively correlated with population density.
 
