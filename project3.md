@@ -20,6 +20,6 @@ Henry Buron
 
 ## Part 2 - Westmoreland, Jamaica
 
-
+![](west_roads_health5.png)
 
 ![](West_roads_health_points5.png)
