@@ -2,7 +2,7 @@
 
 Henry Buron
 
-## Part 1
+## Part 1 - Westmoreland, Jamaica
 
 ![](West_pop19.png)
 
@@ -17,3 +17,9 @@ Henry Buron
 ![](incorrect_urban.png)
 
 ![](urbanareas.png)
+
+## Part 2 - Westmoreland, Jamaica
+
+![](West_roads_health3.png)
+
+![](West_roads_health_points3.png)
