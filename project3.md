@@ -28,7 +28,7 @@ This plot shows the buffered lines on top of the population per grid cell plot. 
 
 ![](urbanareas.png)
 
-This plot shows Westmoreland's urban areas in light blue.
+This plot shows Westmoreland's urban areas in the dark tan.
 
 Unfortunately, I was not able to generate the population/density points on this plot (several of the commands kept producing errors that I could not figure out). However, as you will see below, I was able to plot several types of data points that I believe are positively correlated with population density.
 
@@ -38,7 +38,7 @@ Unfortunately, I was not able to generate the population/density points on this 
 
 ![](west_roads_health5.png)
 
-On this plot, you will see Westmoreland's urban areas, roads, and health sites. As before, the urban areas are represented in light blue. There are several types of roads - main roads are dark green, secondary roads are green, and tertiary roads are light green. And finally, health sites are represented by the blue crosses. 
+On this plot, you will see Westmoreland's urban areas, roads, and health sites. As before, the urban areas are represented by the slightly darker tan color. There are several types of roads - main roads are dark green, secondary roads are green, and tertiary roads are light green. And finally, health sites are represented by the blue crosses. 
 
 ![](West_roads_health_points5.png)
 
