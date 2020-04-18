@@ -44,4 +44,13 @@ On this plot, you will see Westmoreland's urban areas, roads, and health sites. 
 
 As I mentioned before, I was not able to generate the populatino/density points. So, I have found data that I believe is correlated with high population density. For example, on this plot, you will see three colors of points - yellow, orange, and red. Yellow represents a tourist attraction, orange is a place of worship, and red is a restaurant. These are all things likely placed in areas with a relatively high density of people. I believe this is supported by the plot - almost all of the points are located alongside a primary road, and many of those that are not are along the coast - an area of high traffic.
 
+## Questions
+
+1. 
+
+2.
+
+3.
+
+4.
 
