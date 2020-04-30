@@ -3,3 +3,5 @@
 Henry Buron
 
 ## Topography
+
+![](westfinal.png)
