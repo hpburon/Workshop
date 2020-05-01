@@ -6,7 +6,7 @@ Henry Buron
 
 ![](westfinal1.png)
 
-This is a three-dimensional topographic plot that describes urban areas, roadways, and health care facilities in Westmoreland, Jamaica's westernmost parish. The dashed yellow line represents the parish borders, the gold shaded areas are the urban areas, the green lines represent primary, secondary, and tertiary roads, and the red crosses represent health care facilities.
+This is a three-dimensional topographic plot that describes urban areas, roadways, and health care facilities in Westmoreland, Jamaica's westernmost parish. The dashed yellow line represents the parish borders, the gold shaded areas are the urban areas, the green lines represent primary, secondary, and tertiary roads, and the red, orange, and yellow crosses represent pharmacies, clinics, and dentists, respectively.
 
 #### How has topography appeared to have impacted the development of urban areas?
 
@@ -22,7 +22,4 @@ By design, health care facilities are made and located to help the highest amoun
 
 #### Has producing your three-dimentional map resulted in an interpretation that is different from your previous analysis?
 
-Yes, it has. Previously, when I had only produced the map with the locations of urban areas, roadways, and health care facilities, I reasoned that the location of the urban areas was due to the coast line (the whole southern and western border is coastline), however it is now clear that their locatoin is due to topography - specifically, lack of mountains. 
-
-
-
+Yes, it has. Previously, when I had only produced the two-dimensional map with the locations of urban areas, roadways, and health care facilities, I reasoned that the location of the urban areas was due to the coast line (the whole southern and western border is coastline), however it is now clear that their locatoin is due to topography - specifically, places with a relatively smooth terrain. 
