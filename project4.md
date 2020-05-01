@@ -10,15 +10,15 @@ This is a three-dimensional topographic plot that describes urban areas, roadway
 
 #### How has topography appeared to have impacted the development of urban areas?
 
-Topography has had a very large impact on the location and development of the urban areas. Much of Westmoreland is mountainous, yet the urban areas are almost each completely in the flatter regions. This is likely due to the simple fact that it is easier to build when not on the side of a mountain. There are three main urban areas in Westmoreland, and it is interesting to note that the only one that has a relatively large portion of mountainous area (on the right), is also the least developed one. It is possible, and entirely probable, that it has a harder time attracting and keeping residents when they could easily move and live in a flatter region.
+Topography has had a very large impact on the location and development of the urban areas. Much of Westmoreland is mountainous, yet the urban areas are almost each completely in the flatter regions. This is likely due to the simple fact that it is easier to build when not on the side of a mountain. There are three main urban areas in Westmoreland, and it is interesting to note that the only one that has a relatively large portion of mountainous area, is also the least developed one (the urban area on the bottom right). It is possible, and entirely probable, that it has a harder time attracting and keeping residents when they could easily move and live in a flatter region.
 
 #### How has topography appeared to have impacted the development of transportation facilities?
 
-Although the roads seem to cover almost the entirety of Westmoreland, I still believe topography has played a big role in their development. Notice that primary roads are represented by dark green, secondary by green, and tertiary by light green. The primary road is completely in the flatter area, the secondary roads are mostly in the flatter area, but the tertiary roads freely extend throughout the mountainous region. The flatter areas correspond to the urban areas, which means that they are likely much more travelled and have therefore been developed to a much greater extent. It does not make much sense to develop the roads circling around the mountains that are infrequently used.
+Although the roads seem to cover almost the entirety of Westmoreland, I still believe topography has played a big role in their development. For example, notice that primary roads are represented by dark green, secondary by green, and tertiary by light green. The primary road is completely in the flatter area, the secondary roads are mostly in the flatter area, but the tertiary roads freely extend throughout the mountainous region. The flatter areas correspond to the urban areas, which means that they are likely much more travelled and have therefore been developed to a much greater extent. It does not make much sense to develop the roads circling around the mountains that are infrequently used.
 
 #### How has topography appeared to have impacted the location of health care facilities?
 
-By design, health care facilities are made and located to help the highest amount of people possible. So, because the urban areas in Westmoreland are located in the flatter regions of the parish, so are the health care facilities.
+By design, health care facilities are made and located with the intent of helping the highest number of people possible. So, because the urban areas in Westmoreland are located in the flatter regions of the parish, so are the health care facilities.
 
 #### Has producing your three-dimentional map resulted in an interpretation that is different from your previous analysis?
 
