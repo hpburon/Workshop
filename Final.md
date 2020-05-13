@@ -10,6 +10,7 @@ Jamaica has a total population of approximately 2.9 million people. It is divide
 
 ## Population of Jamaica's Parishes
 ![](jam_final1.png)
+Above, to the left, is a population map of Jamaica's 14 parishes. On the right, there is a bar graph that displays the percentage of Jamaica's total population within each Parish.
 
 ![](jam_pop2019E.mp4)
 
