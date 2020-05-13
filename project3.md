@@ -12,7 +12,7 @@ The above plot represents the population per grid cell in Westmoreland, Jamaica.
 
 ![](estimated_persons.png)
 
-On this plot, each person in Westmoreland has been estimated and probalistically distributed. This means that there are about 145,000 points.
+On this plot, each person in Westmoreland has been estimated and probalistically distributed. This means that there are just under 145,000 points.
 
 ![](west_density.png)
 
