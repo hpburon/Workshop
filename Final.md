@@ -55,3 +55,12 @@ From this plot, we can see that the most highly populated and dense areas of Wes
 
 ![](westfinal1.png)
 This is a three-dimensional topographic plot that describes urban areas, roadways, and health care facilities in Westmoreland, Jamaica's westernmost parish. The dashed yellow line represents the parish borders, the gold shaded areas are the urban areas, the green lines represent primary, secondary, and tertiary roads, and the red, orange, and yellow crosses represent pharmacies, clinics, and dentists, respectively.
+
+Topography has had a very large impact on the location and development of the urban areas. Much of Westmoreland is mountainous, yet the urban areas are almost each completely in the flatter regions. This is likely due to the simple fact that it is easier to build when not on the side of a mountain. There are three main urban areas in Westmoreland, and it is interesting to note that the only one that has a relatively large portion of mountainous area, is also the least developed one (the urban area on the bottom right). It is possible, and entirely probable, that it has a harder time attracting and keeping residents when they could easily move and live in a flatter region.
+
+Although the roads seem to cover almost the entirety of Westmoreland, I still believe topography has played a big role in their development. For example, notice that primary roads are represented by dark green, secondary by green, and tertiary by light green. The primary road is completely in the flatter area, the secondary roads are mostly in the flatter area, but the tertiary roads freely extend throughout the mountainous region. The flatter areas correspond to the urban areas, which means that they are likely much more travelled and have therefore been developed to a much greater extent. It does not make much sense to develop the roads circling around the mountains that are infrequently used.
+
+By design, health care facilities are made and located with the intent of helping the highest number of people possible. So, because the urban areas in Westmoreland are located in the flatter regions of the parish, so are the health care facilities.
+
+In conclusion, I believe that Westmoreland has done a good job in human development. It would certainly be beneficial is its health care facilities were more spatially spread out, but assuming that they created as many as they were financially able to, their locations were clearly logically planned (they cover the most urban areas).  
+
