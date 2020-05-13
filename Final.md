@@ -31,7 +31,7 @@ The above plot shows the difference (error) of predicted values from the worldpo
 This plot shows the actual population values of Saint Catherine from the worldpop site. If you compare this plot to the previous one, you will see that the areas of high population are more likely to be underestimated, and the areas of low population are more likely to be overestimated.
 
 ![](saintcatherine3d.png)
-This 3D plot represents the variation exhibited in the predicted values. 
+This 3D plot represents the variation exhibited in the predicted values. The highest error is exhibited in the more urban areas.
 
 ![](saint_catherine_mapview.png)
 This mapview plot also reprsents the error of the predicted values compared to the worldpop raster. The model overpredicted in areas of high population and under predicted in areas of low population. It's interesting to note that the underprediction error seems to generally be much larger than the overprediction error.
@@ -41,6 +41,7 @@ This mapview plot also reprsents the error of the predicted values compared to t
 The above plot represents the population per grid cell in Westmoreland, Jamaica. Westmoreland's total population is just under 145,000 people.
 
 ![](estimated_persons.png)
+
 On this plot, each person in Westmoreland has been estimated and probalistically distributed. This means that there are just under 145,000 points.
 
 ![](urbanareas.png)
