@@ -14,6 +14,7 @@ Henry Buron
 2. Project 2: [Jamaica](https://hpburon.github.io/Workshop/project2)
 3. Project 3: [Jamaica](https://hpburon.github.io/Workshop/project3)
 4. Project 4: [Jamaica](https://hpburon.github.io/Workshop/project4)
+5. Final Individual Deliverable: [Jamaica](https://hpburon.github.io/Workshop/Final)
 
 ## Reading Responses
 
