@@ -9,11 +9,7 @@ May 13, 2020
 Jamaica has a total population of approximately 2.9 million people. It is divided up into 14 Parishes, each ranging in population from about 60,000 to over 500,000 people. Jamaica's capital is Kingston. In addition, in the above plot, the red crosses indicate a health care facility. As you will in the following plots, the location and density of the health care facilities has a high correlation with population.
 
 ## Population of Jamaica's Parishes
-![](jam_pop2019.png)
-The highest areas of population surround the capital (Kingston).
-
-![](jam_graph3.png)
-This graph displays the population of each of Jamaica's 14 Parishes and the percent it makes up of Jamaica's total population.
+![](jam_final1.png)
 
 ![](jam_pop2019E.mp4)
 
