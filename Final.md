@@ -6,7 +6,7 @@ May 13, 2020
 
 ## Administrative Subdivisions of Jamaica
 ![](jaimaica_gadm.png)
-Jamaica has a total population of approximately 2.9 million people. It is divided up into 14 Parishes, each ranging in population from about 60,000 to over 500,000 people. Jamaica's capital is Kingston. In addition, in the above plot, the red crosses indicate a health care facility. As you will in the following plots, the location and density of the health care facilities has a high correlation with population.
+Jamaica has a total population of approximately 2.9 million people. It is divided up into 14 Parishes, each ranging in population from about 60,000 to over 500,000 people. Jamaica's capital is Kingston. In addition, in the above plot, the red crosses indicate a health care facility. As you will in the following plots, the location of the health care facilities is highjly correlated with population.
 
 ## Population of Jamaica's Parishes
 ![](jam_final1.png)
