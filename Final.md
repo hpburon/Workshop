@@ -36,12 +36,13 @@ This 3D plot represents the variation exhibited in the predicted values. The hig
 ![](saint_catherine_mapview.png)
 This mapview plot also reprsents the error of the predicted values compared to the worldpop raster. The model overpredicted in areas of high population and under predicted in areas of low population. It's interesting to note that the underprediction error seems to generally be much larger than the overprediction error.
 
-## Description of Urban Areas, Transportation Facilities, Roadways, and Density Indicators and in Westmoreland, Jamaica - adm2
+## Description of Human Settlements, Urban Areas, Transportation Facilities, Roadways, and Density Indicators and in Westmoreland, Jamaica - adm2
 ![](West_pop19.png)
 
 The above plot represents the population per grid cell in Westmoreland, Jamaica. Westmoreland's total population is just under 145,000 people.
 
 ![](estimated_persons.png)
+
 On this plot, each person in Westmoreland has been estimated and probalistically distributed. This means that there are just under 145,000 points.
 
 ![](urbanareas.png)
@@ -63,5 +64,5 @@ Although the roads seem to cover almost the entirety of Westmoreland, I still be
 
 By design, health care facilities are made and located with the intent of helping the highest number of people possible. So, because the urban areas in Westmoreland are located in the flatter regions of the parish, so are the health care facilities.
 
-In conclusion, I believe that Westmoreland has done a good job in human development. It would certainly be beneficial is its health care facilities were more spatially spread out, but assuming that they created as many as they were financially able to, their locations were clearly logically planned (they cover the most urban areas).  
+In conclusion, I believe that Westmoreland has done a very good job in human development. It would certainly be beneficial if its health care facilities were more spatially spread out, but assuming that they created as many as they were financially able to, their locations were clearly logically planned (they cover the most urban areas).  
 
