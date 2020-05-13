@@ -1,4 +1,4 @@
-# Jamaica - Final Individual Project
+# Final Individual Deliverable - Jamaica
 
 Henry Buron
 
@@ -7,9 +7,74 @@ May 13, 2020
 ## Administrative Subdivisions of Jamaica
 ![](jaimaica_gadm.png)
 
+Jamaica has a total population of approximately 2.9 million people. It is divided up into 13 Parishes, each ranging in population from about 60,000 to over 500,000 people. Jamaica's capital is Kingston.
+
 ## Population of Jamaica's Parishes
 ![](jam_pop2019.png)
 
 ![](jam_graph3.png)
 
 ![](jam_pop2019E.mp4)
+
+## Population Distribution in Jamaica - adm1
+![](jam_histogram99.png)
+
+Above is a histogram representing population distribution of Jamaica's 14 Parishes (adm2).
+
+![](jam_all_variables99.png)
+
+Residual model with regression line and confidence interval representing the correlation of all variables with Jamaica's population distribution. The points, which each represent one of Jamaica's parishes, have much less variability in this model compared to the previous one (which only used three covariates), indicating that this model is more accurate. In addition, the points on the left, which are close to the line of best fit, likely represent the more rural Parishes. The two on the right and the one below the confidence interval likely represent the more urban Parishes. It seems that urban areas with high population counts and density are harder to accurately predict.
+
+![](jamaica_diff1.png)
+
+The above plot shows the difference (error) of predicted value from the worldpop raster in Jamaica. The error appears to be relatively consistent - slightly above 0 (overestimation) - throughout most of Jamiaca, though in the Saint Catherine/Saint Andrew/ Kingston area, the error dips down to -30. This represents a large underestimation, which makes sense because this is the most highly and densly populated area of Jamaica.
+
+![](saint_catherine1.png)
+
+This plot shows the actual population values of Saint Catherine from the worldpop site. If you compare this plot to the previous one, you will see that the areas of high population are more likely to be underestimated, and the areas of low population are more likely to be overestimated.
+
+![](saintcatherine3d.png)
+
+This 3D plot also represents the variation exhibited in the predicted values. 
+
+## Population Distribution in Saint Catherine, Jamaica - adm2
+![](saint_catherine2.png)
+
+The above plot shows the difference (error) of predicted values from the worldpop raster in the Jamaican provice Saint Catherine. The areas of overestimation appear in spots towards the south east and south west, which makes sense as that is where the largest cities are located.
+
+![](saint_catherine1.png)
+
+This plot shows the actual population values of Saint Catherine from the worldpop site. If you compare this plot to the previous one, you will see that the areas of high population are more likely to be underestimated, and the areas of low population are more likely to be overestimated.
+
+![](saintcatherine3d.png)
+
+This 3D plot represents the variation exhibited in the predicted values. 
+
+![](saint_catherine_mapview.png)
+
+This plot is a mapview that also reprsents the error of the predicted values compared to the worldpop raster. The model overpredicted in areas of high population and under predicted in areas of low population. It's interesting to note that the underprediction error seems to generally be much larger than the overprediction error.
+
+## Description of Urban Areas, Transportation Facilities, Roadways, and Density Indicators and in Westmoreland, Jamaica - adm2
+![](West_pop19.png)
+
+The above plot represents the population per grid cell in Westmoreland, Jamaica. Westmoreland's total population is just under 145,000 people.
+
+![](estimated_persons.png)
+
+On this plot, each person in Westmoreland has been estimated and probalistically distributed. This means that there are just under 145,000 points.
+
+![](urbanareas.png)
+
+This plot shows Westmoreland's urban areas in the darker tan.
+
+![](West_roads_health_points5.png)
+
+I was not able to generate the populatino/density points. So, I found and downloaded more data from HDX that I believe is correlated with high population density. For example, on this plot, you will see three colors of points - yellow, orange, and red. Yellow represents a tourist attraction, orange is a place of worship, and red is a restaurant. These are all things likely placed in areas with a relatively high density of people. I believe this is supported by the plot - almost all of the points are located alongside a primary road, and many of those that are not are along the coast - an area of high traffic.
+
+From this plot, we can see that the most highly populated and dense areas of Westemoreland seem to be slightly below the middle of the plot and on the western border. It is no coincidence that the main roads go directly through these areas. In addition, this makes sense as the center is the capital, Savannah la mar, and on the west is Nigel Point, Westmoreland's most popular tourist destination. It is also worth noting that the entire sourthern and western border is coastline, likely filled with beaches and tourist attractions that draw many people.
+
+## Topography in Westmoreland, Jamaica - adm2
+
+![](westfinal1.png)
+
+This is a three-dimensional topographic plot that describes urban areas, roadways, and health care facilities in Westmoreland, Jamaica's westernmost parish. The dashed yellow line represents the parish borders, the gold shaded areas are the urban areas, the green lines represent primary, secondary, and tertiary roads, and the red, orange, and yellow crosses represent pharmacies, clinics, and dentists, respectively.
