@@ -27,14 +27,6 @@ Above is residual model with regression line and confidence interval representin
 
 The above plot shows the difference (error) of predicted value from the worldpop raster in Jamaica. The error appears to be relatively consistent - slightly above 0 (overestimation) - throughout most of Jamiaca, though in the Saint Catherine/Saint Andrew/ Kingston area, the error dips down to -30. This represents a large underestimation, which makes sense because this is the most highly and densly populated area of Jamaica.
 
-![](saint_catherine1.png)
-
-This plot shows the actual population values of Saint Catherine from the worldpop site. If you compare this plot to the previous one, you will see that the areas of high population are more likely to be underestimated, and the areas of low population are more likely to be overestimated.
-
-![](saintcatherine3d.png)
-
-This 3D plot also represents the variation exhibited in the predicted values. 
-
 ## Population Distribution in Saint Catherine, Jamaica - adm2
 ![](saint_catherine2.png)
 
