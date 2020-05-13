@@ -38,10 +38,10 @@ This mapview plot also reprsents the error of the predicted values compared to t
 
 ## Description of Urban Areas, Transportation Facilities, Roadways, and Density Indicators and in Westmoreland, Jamaica - adm2
 ![](West_pop19.png)
+
 The above plot represents the population per grid cell in Westmoreland, Jamaica. Westmoreland's total population is just under 145,000 people.
 
 ![](estimated_persons.png)
-
 On this plot, each person in Westmoreland has been estimated and probalistically distributed. This means that there are just under 145,000 points.
 
 ![](urbanareas.png)
