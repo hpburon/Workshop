@@ -6,15 +6,17 @@ May 13, 2020
 
 ## Administrative Subdivisions of Jamaica
 ![](jaimaica_gadm.png)
-
-Jamaica has a total population of approximately 2.9 million people. It is divided up into 13 Parishes, each ranging in population from about 60,000 to over 500,000 people. Jamaica's capital is Kingston.
+Jamaica has a total population of approximately 2.9 million people. It is divided up into 14 Parishes, each ranging in population from about 60,000 to over 500,000 people. Jamaica's capital is Kingston. In addition, in the above plot, the red crosses indicate a health care facility. As you will in the following plots, the location and density of the health care facilities has a high correlation with population.
 
 ## Population of Jamaica's Parishes
 ![](jam_pop2019.png)
+The highest areas of population surround the capital (Kingston).
 
 ![](jam_graph3.png)
+This graph displays the population of each of Jamaica's 14 Parishes and the percent it makes up of Jamaica's total population.
 
 ![](jam_pop2019E.mp4)
+
 
 ## Population Distribution in Jamaica - adm1
 ![](jam_histogram99.png)
@@ -23,7 +25,7 @@ Above is a histogram representing population distribution of Jamaica's 14 Parish
 
 ![](jam_all_variables99.png)
 
-Residual model with regression line and confidence interval representing the correlation of all variables with Jamaica's population distribution. The points, which each represent one of Jamaica's parishes, have much less variability in this model compared to the previous one (which only used three covariates), indicating that this model is more accurate. In addition, the points on the left, which are close to the line of best fit, likely represent the more rural Parishes. The two on the right and the one below the confidence interval likely represent the more urban Parishes. It seems that urban areas with high population counts and density are harder to accurately predict.
+Above is residual model with regression line and confidence interval representing the correlation of all variables with Jamaica's population distribution. The points each represent one of Jamaica's parishes. In addition, the points on the left, which are close to the line of best fit, likely represent the more rural Parishes. The two on the right and the one below the confidence interval likely represent the more urban Parishes. It seems that urban areas with high population counts and density are harder to accurately predict. This makes sense if you consider the types of buildings within a city - such as apartments - and realize how the structure of these makes them harder to estimate.
 
 ![](jamaica_diff1.png)
 
